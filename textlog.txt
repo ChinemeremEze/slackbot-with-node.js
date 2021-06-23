@@ -1,0 +1,20 @@
+(1)(Name): Spring Sushi, (Address): 1508 Upper James StHamilton ON,CA L9B 1K3 
+(1)(Name): Spring Sushi, (Address): 1508 Upper James StHamilton ON,CA L9B 1K3 
+(1)(Name): Namu, (Address): 186 King Street W null, Dundas ON,CA L9H 1V4 
+(2)(Name): The Ship, (Address): 23 Augusta StreetHamilton ON,CA L8N 1P6 
+(3)(Name): Berkeley North, (Address): 31 King William Street null, Hamilton ON,CA L8R 1A1 
+(4)(Name): Diplomat, (Address): 43 King William Street null, Hamilton ON,CA L8R 1A2 
+(5)(Name): Mezcal Tacos & Tequila, (Address): 150 James Street SHamilton ON,CA L8P 3A2 
+(1)Abby W.
+(Review Text): I'm not a fan of sushi but that one was good and that's why I want to write a review. 
+Many thanks to the staff that were doing the whole service work!
+ (Rating): 4
+(Link): https://www.yelp.com/biz/spring-sushi-hamilton?adjust_creative=CX_ClZpOmNUC44Roj9zoeA&hrid=Cvd5hZc6PU6KiNtHWhiKEw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=CX_ClZpOmNUC44Roj9zoeA
+(2)Ben S.
+(Review Text): I ordered over Skip The Dishes (because COVID). A huge order of sushi, udon noodles and rolls. As my one treat this week I also included two beers which was...
+ (Rating): 2
+(Link): https://www.yelp.com/biz/spring-sushi-hamilton?adjust_creative=CX_ClZpOmNUC44Roj9zoeA&hrid=InZKXR2UwkAhCo_hvEcThw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=CX_ClZpOmNUC44Roj9zoeA
+(3)Zack P.
+(Review Text): Was looking for a decent sushi place in Hamilton and came across spring sushi...price was average for AYCE walked in and place was modern and clean they...
+ (Rating): 4
+(Link): https://www.yelp.com/biz/spring-sushi-hamilton?adjust_creative=CX_ClZpOmNUC44Roj9zoeA&hrid=Q3_i-RRo6v59ZYRXxjvCig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=CX_ClZpOmNUC44Roj9zoeA
